@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cded912-2f31-4bb3-b1dc-2bb7be5b7f12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="24bd9a7b-2a0d-46b8-afae-974a41d138b8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
@@ -16,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2TwKhHlOnviOuTb2AvePRWQsmqj" />
+  <component name="ProjectId" id="2U0jx5l6U5ojhkLq6WRyh0JlbeI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,13 +32,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8cded912-2f31-4bb3-b1dc-2bb7be5b7f12" name="Changes" comment="" />
-      <created>1691948821480</created>
+      <changelist id="24bd9a7b-2a0d-46b8-afae-974a41d138b8" name="Changes" comment="" />
+      <created>1692083635645</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691948821480</updated>
-      <workItem from="1691948822490" duration="1000" />
+      <updated>1692083635645</updated>
+      <workItem from="1692083636645" duration="1000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
